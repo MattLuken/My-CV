@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif, "Poppins SemiBold Italic", "Poppins SemiBold", "Poppins Regular", "Poppins Thin", "Poppins Thin Italic", "Poppins Medium Italic", "Poppins Medium", "Poppins Light Italic", "Poppins Light", "Poppins Italic", "Poppins ExtraLight Italic", "Poppins ExtraLight", "Poppins Bold", "Poppins Bold Italic", "Poppins ExtraBold", "Poppins ExtraBold Italic", "Poppins Black";
+	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -15,20 +15,20 @@ body {
 
 .resume-header {
     background-color: #31594C;
-	font-family: poppins;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: white;
 	font-weight: 500;
 }
 
 .resume-main {
 	background-color: #25463A;
-	font-family: poppins;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: white;
 }
 
 .resume-aside {
 	background-color: #E9E8ED;
-	font-family: poppins;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: black;
 }
 
