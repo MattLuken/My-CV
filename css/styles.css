@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif, "Poppins SemiBold Italic", "Poppins SemiBold", "Poppins Regular", "Poppins Thin", "Poppins Thin Italic", "Poppins Medium Italic", "Poppins Medium", "Poppins Light Italic", "Poppins Light", "Poppins Italic", "Poppins ExtraLight Italic", "Poppins ExtraLight", "Poppins Bold", "Poppins Bold Italic", "Poppins ExtraBold", "Poppins ExtraBold Italic", "Poppins Black";
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -55,6 +55,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+
+		
 }
 .mw-80 {
 }
