@@ -35,7 +35,7 @@ body {
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "•";
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
@@ -43,7 +43,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: white;
 }
 
 .biography-details li, .skill-list li {
